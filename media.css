@@ -1,0 +1,15 @@
+@media screen and (min-width: 600px){
+    .d1{width:100%;}
+    .div{width:200px;}
+    .iframe{float:left;width:300px;}
+    .d2{width:100%;float:left;margin-top:100px;}
+    .d3{margin-top:-500px;}
+}
+@media screen and (min-width: 600px){
+    .d1{width:100%;}
+    .iframe{width:100%;}
+    .d2{width:100%;}
+}
+
+
+
